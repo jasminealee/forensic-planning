@@ -24,4 +24,6 @@ Bootstrap
 Is there anything else you’d like your instructor to know?
 I don't believe so.
 
-  
+Component Tree
+
+![Component-Tree](/images/component-tree.png)  
